@@ -59,3 +59,5 @@ To run the classification program:
 
 3) To change the K of the nearest neighbor classifier, change variable NEAREST_NEIGHBOR in NearestNeighbor.java. 
 
+thank you so much
+
